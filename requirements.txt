@@ -1,4 +1,4 @@
-
+setuptools
 git+https://github.com/Rapptz/discord.py@rewrite
 requests
 wikipedia
